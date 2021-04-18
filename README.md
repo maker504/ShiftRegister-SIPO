@@ -13,4 +13,5 @@ Finalmente les agradezco todos sus comentarios y sugerencias y no olviden suscri
 Los principales elementos usados son:
 
 Arduino ATTINY Digispark Attiny85 Micro Miniature Microcontroller USB Development Board Module
+
 IC SN74HC595
